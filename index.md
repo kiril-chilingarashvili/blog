@@ -1,2 +1,1 @@
-# My Blog
-## By Kiril Chilingarashvili
+# Under Construction
