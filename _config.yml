@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 name: Make Things Happens
 title: Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
