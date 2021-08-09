@@ -7,4 +7,5 @@ $$ \vec{w} $$
 {% endraw %}
 
 {% raw %}
+# $$ \vec{w} $$
 {% endraw %}
