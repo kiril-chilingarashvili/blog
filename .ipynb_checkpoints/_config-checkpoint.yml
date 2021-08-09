@@ -1,5 +1,17 @@
 name: Make Things Happens
-title: null
+title: Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kiril-chilingarashvili.github.io" # the base hostname & protocol for your site
+timezone: PST
+lsi: true
+
+# Build settings
 markdown: kramdown
 kramdown:
    math_engine: mathjax
+highlighter: rouge
+
+permalink: pretty
+
+collections:
+- collection
