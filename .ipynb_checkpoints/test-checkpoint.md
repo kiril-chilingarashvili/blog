@@ -1,8 +1,1 @@
-# $$ \vec{v} $$
-
-{% raw %}
-$$ \vec{w} $$
-{% endraw %}
-
-{% raw %}
-{% endraw %}
+# $$ \frac{v^2}{m^{N + k}} $$
