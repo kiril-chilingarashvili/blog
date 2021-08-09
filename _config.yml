@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 name: Make Things Happens
 title: Blog
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/"
 url: "https://kiril-chilingarashvili.github.io" # the base hostname & protocol for your site
 timezone: PST
 
