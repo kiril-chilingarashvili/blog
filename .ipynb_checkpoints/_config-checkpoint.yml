@@ -1,2 +1,5 @@
 name: Make Things Happens
 title: null
+markdown: kramdown
+kramdown:
+    math_engine: katex
