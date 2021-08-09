@@ -11,3 +11,4 @@ kramdown:
    math_engine: mathjax
 sass:
    style: expanded
+   sourcemap: always
